@@ -1,1 +1,1 @@
-# go-ghuchain-releases
+# releases
